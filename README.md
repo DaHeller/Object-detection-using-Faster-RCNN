@@ -89,7 +89,7 @@ Here is some of my favorite results from both models.
 
 ## Conclusions 
 
-I would say that my models preformed well for such little training time. But this whole project has been a very fun experience and Faster R-CNN is a very complex model type that works extremely well.
+With only a week to do this project I would say that my models preformed well. But this whole project has been a very fun experience and Faster R-CNN is a very complex model type that works extremely well.
 
 ## Future work
 
